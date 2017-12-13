@@ -1,0 +1,17 @@
+:host {
+  position: fixed;
+  background-color: #000;
+  color: #fff;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 200px;
+  padding: 20px;
+  font-family: 'helvetica', sans-serif;
+}
+
+ul {
+  list-style: none;
+  line-height: 3;
+  font-size: 18px;
+}
